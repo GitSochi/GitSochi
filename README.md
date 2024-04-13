@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I onced hiked RattleSnake with a 50lb weighted body-vest in under an hour and caught the sun-rise.
+- ⚡ Fun fact: ... I onced hiked RattleSnake Mt. with a 50lb weighted body-vest in under an hour and caught the sun-rise.
 
 <!---
 GitSochi/GitSochi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,4 +11,8 @@ GitSochi/GitSochi is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 AWS Projects
-- <a href="https://drive.google.com/file/d/1MaeNizSCu8wmvFHItTvWN2ereRIghzBQ/view">Data Analytics Pipeline</a>
+- <a href="https://drive.google.com/file/d/1pwxjADt5LWc1qRnCiLw-3EPUZdb6vjXr/view">AWS Migration</a>
+- <a href="https://drive.google.com/file/d/1z3Cumz8byx7mmn04t-EaGS_b3z4iyiPL/view">Data Analytics Pipeline</a>
+- <a href="https://drive.google.com/file/d/1MaeNizSCu8wmvFHItTvWN2ereRIghzBQ/view">IOT Storage and Visualizations</a>
+
+
